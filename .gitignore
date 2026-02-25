@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# QGIS backups / temp
+*.qgs~
+*.qgz~
+*.qgd
+*.aux.xml
+*.lock
+*.tmp
+*.bak
+
+# QGIS user settings
+.qgis2/
+.qgis3/
