@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* HEADER */
+header {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* MAP */
+#map {
+  height: calc(100vh - 120px);
+  width: 100%;
+}
+
+/* FOOTER */
+footer {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* LEGEND */
+.legend {
+  background: white;
+  padding: 10px;
+  line-height: 18px;
+  color: #333;
+  box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.legend i {
+  width: 14px;
+  height: 14px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.8;
+}
+
+/* SEARCH */
+.search-box input {
+  width: 160px;
+  padding: 5px;
+}
